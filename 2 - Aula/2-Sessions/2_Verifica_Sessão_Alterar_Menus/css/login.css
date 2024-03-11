@@ -1,0 +1,7 @@
+html {
+	font-family:'Trebuchet MS';
+	background-color: #111;
+	color: white;
+	display: grid;
+	place-items: center;
+}
