@@ -1,0 +1,13 @@
+html {
+    background-color: #111;
+    color: white;
+    font-size: 25px;
+    font-family: 'Trebuchet MS';
+    line-height: 35px;
+    padding: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+}
