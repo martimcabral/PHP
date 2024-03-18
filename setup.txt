@@ -1,0 +1,15 @@
+Na Virtual Box:
+1. Criar Pasta Compartilhada
+2. Fazer Auto Mount e Permanente
+
+No Linux:
+1. nano /etc/fstab
+nome_da_pasta_compartilhada_aqui /var/www/html vboxsf  defaults 0 0
+
+2. apt install apache2
+3. apt install php
+4. apt install mariadb-server
+
+5. mount -a
+
+6. apt-get install php-mysql
